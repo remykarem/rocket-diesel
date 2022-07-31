@@ -1,0 +1,6 @@
+[default]
+name = "raimi"
+age = 20
+
+[default.databases.my_db]
+url = "postgres://postgres:example@localhost:5432/postgres"
